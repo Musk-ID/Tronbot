@@ -28,6 +28,7 @@ $ git clone https://github.com/Musk-ID/Tronbot
 $ cd Tronbot
 $ python bot.py
 ```
+##### Note
 ```
 Please open the cfg.ini file first
 and then fill in the data as needed
