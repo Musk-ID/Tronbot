@@ -33,5 +33,5 @@ $ python trx.py
 Please open the cfg.ini file first
 and then fill in the data as needed
 ```
-- [X] Apk link [here](https://play.google.com/store/apps/details?id=com.earncrypto.litecoin)
+- [X] link [here](http://faucet77.tk/?r=TNJqnAYszFA5a4u2oXfJNDAyycwXYYqmLo&rc=TRX)
 
