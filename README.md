@@ -29,7 +29,8 @@ $ cd Tronbot
 $ python bot.py
 ```
 ```
-Please open the cfg.ini file first and then fill in the data as needed
+Please open the cfg.ini file first
+and then fill in the data as needed
 ```
 - [X] Apk link [here](https://play.google.com/store/apps/details?id=com.earncrypto.litecoin)
 
