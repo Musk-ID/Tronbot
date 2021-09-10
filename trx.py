@@ -61,4 +61,4 @@ if __name__=='__main__':
                os.system("xdg-open https://youtube.com/channel/UCkvRV5y6_EcVdBzfp05Kf1g")
                Nuyul().execute()
 	except:
-               requests.exceptions.ConnectionError:exit(f" {p}~{m}> {p}Periksa kembali jaringan internet anda {m}!\n")
+               requests.exceptions.ConnectionError:exit(f"  {p}~{m}> {p}Periksa kembali jaringan internet anda {m}!\n")
