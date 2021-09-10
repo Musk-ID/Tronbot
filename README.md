@@ -26,7 +26,7 @@ $ pip install requests
 $ pip install ini-parser
 $ git clone https://github.com/Musk-ID/Tronbot
 $ cd Tronbot
-$ python bot.py
+$ python trx.py
 ```
 ##### Note
 ```
